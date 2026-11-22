@@ -1,0 +1,13 @@
+{
+    "id": "signup",
+    "version": "1.6.0",
+    "name": "SignUp",
+    "author": "yello",
+    "description": {
+        "zh_cn": "一个让玩家每日签到与参与服务器工程的插件",
+        "en_us": "A plugin for daily check-ins and server project management"
+    },
+    "dependencies": {
+        "mcdreforged": ">=2.15.0"
+    }
+}
